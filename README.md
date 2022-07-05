@@ -42,9 +42,3 @@ I'm GeumJang. 🌱 <br>
 </div>
 
 <div align="center">
-
-
-![Snake_SVG](https://github.com/koomchang/koomchang/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
