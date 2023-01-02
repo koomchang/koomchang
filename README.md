@@ -30,14 +30,5 @@ I'm GeumJang. 🌱 <br>
   <a href="mailto:leahpar0401@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leahpar0401@gmail.com"/></a>
  </p>
 <br/>
-
-<h3 align="center">Github Stats </h3> <br/>
-<div align="center">
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=koomchang&show_icons=true&theme=dark)
   
 </div>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
