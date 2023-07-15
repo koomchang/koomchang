@@ -31,6 +31,6 @@ I'm GeumJang. 🌱 <br>
  </p>
 <br/>
 
-![snake gif](https://github.com/koomchang/koomchang/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/koomchang/koomchang/blob/output/github-contribution-grid-snake.svg)
   
 </div>
