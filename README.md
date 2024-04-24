@@ -21,9 +21,15 @@ I'm GeumJang. 🌱 <br>
   </p>
  
 <br/>  
-
 <h3 align="center">More about me  😁</h3>
 
 <p align="center">
   <a href="mailto:leahpar0401@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leahpar0401@gmail.com"/></a>
  </p>
+
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/{koomchang}" width="500"/>
+  </a>
+</div>
+
